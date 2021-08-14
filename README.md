@@ -1,16 +1,21 @@
-### Hi there 👋
+# HI there 👋 
 
-<!--
-**sailendrachettri/sailendrachettri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About mySelf
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Sailendra Chettri frontend web developer (React) and always open to learn and explore different tools and technologies. Currently, I am in the first year of my graduation.
+
+## Find me on:
+
+You can find me on [Twitter](https://www.twitter.com/sailendrchettri) and [LinkedIn](https://www.linkedin.com/in/sailendrachettri)
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailendrachettri&hide=contribs,prs&show_icons=true&theme=radical)
+
+
+## Projects 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=react-portfolio&show_owner=true)](https://github.com/sailendrachettri/react-portfolio)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=e-learning&show_owner=true)](https://github.com/sailendrachettri/e-learning)
+
+<!- Resource: https://github.com/anuraghazra/github-readme-stats  -->

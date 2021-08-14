@@ -18,4 +18,4 @@ You can find me on [Twitter](https://www.twitter.com/sailendrchettri) and [Linke
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=e-learning&show_owner=true)](https://github.com/sailendrachettri/e-learning)
 
-<!- Resource: https://github.com/anuraghazra/github-readme-stats  -->
+<!-- Resource: https://github.com/anuraghazra/github-readme-stats  -->

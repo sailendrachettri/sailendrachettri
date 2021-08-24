@@ -19,3 +19,21 @@ I am Sailendra Chettri frontend web developer (React) and always open to learn a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=text-helper&show_owner=true)](https://github.com/sailendrachettri/text-helper)
 
 <!-- Resource: https://github.com/anuraghazra/github-readme-stats  -->
+
+## Tech stack, I have used so far:
+
+⚫ React Js
+
+⚫ Material UI
+
+⚫ Express js
+
+⚫ Javascript
+
+⚫ Node js
+
+⚫ MongoDB
+
+⚫ HTML & CSS
+
+⚫ Bootstrap

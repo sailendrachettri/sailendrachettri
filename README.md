@@ -16,6 +16,6 @@ You can find me on [Twitter](https://www.twitter.com/sailendrchettri) and [Linke
 ## Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=react-portfolio&show_owner=true)](https://github.com/sailendrachettri/react-portfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=e-learning&show_owner=true)](https://github.com/sailendrachettri/e-learning)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=text-helper&show_owner=true)](https://github.com/sailendrachettri/text-helper)
 
 <!-- Resource: https://github.com/anuraghazra/github-readme-stats  -->

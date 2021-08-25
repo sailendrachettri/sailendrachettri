@@ -3,6 +3,7 @@
 
 ## 👨‍💻 About mySelf
 
+
 I am Sailendra Chettri frontend web developer (React) and always open to learn and explore different tools and technologies. Currently, I am in the first year of my graduation.
 
 ## 🔗 Social Links
@@ -18,33 +19,46 @@ I am Sailendra Chettri frontend web developer (React) and always open to learn a
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=text-helper&show_owner=true)](https://github.com/sailendrachettri/text-helper)
 
+<br><br>
+
+## <p align="center"> 💻 Tech stack, I have used so far: </p>
+
+<div align="center">
+
+| Languages & Styles | Framesworks & Libraries | Software & Tools |
+| --------------------- | ----------- | ------------------ |
+| Javascript | React Js | Node js
+| HTML & CSS | Material UI | MongoDB
+| C plus plus | Express js | MySQl
+| C language| Bootstrap | - |
+| Python | Django | - |  
+
+</div>
+
+<br> <br>
+
+
+## <p align="center"> 🏆 Achievements & Certifications </p>
+
+### <div align="center"> i) MERN Stack with Blog Project </div>
+<p align="center">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b11f2ede-9a15-4f0c-87d4-6a897f43723f.jpg">
+</p>
+
+<br> <br>
+
+### <div align="center"> ii) Modern JavaScript for React JS - ES6 </div>
+<p align="center">
+  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-94293565-9a83-4cba-8b31-7afcf9138fd7.jpg">
+</p>
+
+
+
+
+
+
+
+<!-- References: -->
 <!-- Resource: https://github.com/anuraghazra/github-readme-stats  -->
 
-##  💻 Tech stack, I have used so far:
-
-⚫ React Js
-
-⚫ Material UI
-
-⚫ Express js
-
-⚫ Javascript
-
-⚫ Node js
-
-⚫ MongoDB
-
-⚫ HTML & CSS
-
-⚫ Bootstrap
-
-
-
-##  🏆 Achievements & Certifications
-
-### MERN Stack with Blog Project
-![Certificate 1](https://udemy-certificate.s3.amazonaws.com/image/UC-b11f2ede-9a15-4f0c-87d4-6a897f43723f.jpg)
-
-
-###  Modern JavaScript for React JS - ES6
-![Certificate 2](https://udemy-certificate.s3.amazonaws.com/image/UC-94293565-9a83-4cba-8b31-7afcf9138fd7.jpg)
+<!-- <img align="left" alt="Sailendra" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailendrachettri" /> -->

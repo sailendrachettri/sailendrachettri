@@ -1,8 +1,7 @@
-# Hi there 👋 
-
+## Hi there 👋 
+<img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
 
 ## 👨‍💻 About mySelf
-
 
 I am Sailendra Chettri frontend web developer (React) and always open to learn and explore different tools and technologies. Currently, I am in the first year of my graduation.
 

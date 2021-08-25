@@ -28,7 +28,7 @@
 ## <p align="center"> 💻 Tech stack, I have used so far: </p>
 
 
-| Languages & Styles | Framesworks & Libraries | Software & Tools |
+| Languages & Styles | Frameworks & Libraries | Software & Tools |
 | --------------------- | ----------- | ------------------ |
 | Javascript | React Js | Node js
 | HTML & CSS | Material UI | MongoDB

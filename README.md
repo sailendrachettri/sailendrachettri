@@ -3,12 +3,17 @@
 
 ## 👨‍💻 About mySelf
 
-I am Sailendra Chettri frontend web developer (React) and always open to learn and explore different tools and technologies. Currently, I am in the first year of my graduation.
+<p>I am Sailendra Chettri frontend web developer (React) and always open to learn and explore different tools and technologies. Currently, I am in the first year of my graduation. </p>
+
+<p> I did my first computer course (basics of ms office) when I was in 6th standard then I choose IT (Information Technology) subject in my 9th standard and continuously study that till my 12th. After that, I go for a Software Development (Or Bachelor of Vocational) course to learn in-depth about software and computers technologies like how things work on the internet and how computers process data, and how the software solves real-world problems. </p>
 
 ## 🔗 Social Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailendrachettri/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sailendrchettri)
-
+  
+<!-- putting everythin in center -->
+<div align="center">
+  
 ## ✨ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailendrachettri&hide=contribs,prs&show_icons=true&theme=radical)
 
@@ -22,38 +27,28 @@ I am Sailendra Chettri frontend web developer (React) and always open to learn a
 
 ## <p align="center"> 💻 Tech stack, I have used so far: </p>
 
-<div align="center">
 
 | Languages & Styles | Framesworks & Libraries | Software & Tools |
 | --------------------- | ----------- | ------------------ |
 | Javascript | React Js | Node js
 | HTML & CSS | Material UI | MongoDB
 | C plus plus | Express js | MySQl
-| C language| Bootstrap | - |
-| Python | Django | - |  
+| C language| Bootstrap | Git and Github |
+| Python | Django | Heroku and Digital Ocean |  
 
-</div>
 
 <br> <br>
 
 
-## <p align="center"> 🏆 Achievements & Certifications </p>
+## 🏆 Achievements & Certifications
 
-### <div align="center"> i) MERN Stack with Blog Project </div>
-<p align="center">
+### i) MERN Stack with Blog Project
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b11f2ede-9a15-4f0c-87d4-6a897f43723f.jpg">
-</p>
 
 <br> <br>
 
-### <div align="center"> ii) Modern JavaScript for React JS - ES6 </div>
-<p align="center">
+### ii) Modern JavaScript for React JS - ES6
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-94293565-9a83-4cba-8b31-7afcf9138fd7.jpg">
-</p>
-
-
-
-
 
 
 

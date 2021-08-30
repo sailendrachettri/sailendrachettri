@@ -16,12 +16,13 @@
   
 ## ✨ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats-nu-neon.vercel.app/api?username=sailendrachettri&hide=contribs,prs&show_icons=true&theme=radical)
-
-
+  
 ## ‍💻 Projects 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=react-portfolio&show_owner=true)](https://github.com/sailendrachettri/react-portfolio)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=react-portfolio&show_owner=true)](https://github.com/sailendrachettri/react-portfolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=text-helper&show_owner=true)](https://github.com/sailendrachettri/text-helper)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=text-helper&show_owner=true)](https://github.com/sailendrachettri/text-helper)
+
+</div>
 
 <br><br>
 

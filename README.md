@@ -1,13 +1,13 @@
 ## Hello World 👋 
 <img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif?raw=true" min-width="500" min-height="320" />
 
-## 👨‍💻 About my-self
+## 👨‍💻 About myself
 
 <p>I am Sailendra Chettri Tech enthusiast, comfortable with C++ and javascript, always open to learn and explore different tools and technologies. Currently, I'm Learning Data structure and algorithms (using C++) and exploring a little bit of web development.</p>
 
 <p>  I did my first computer course when I was in 6th standard, then after I got interested in computing and technology things. After that, I decided to take IT (Information Technology) in my school and continue studying that at my graduation. Currently, I'm in the 2nd year of my graduation. </p>
 
-## 🔗 Find me on:
+## 🔗 Reach out to me on:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailendrachettri/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sailendrchettri)
   
@@ -17,15 +17,7 @@
 ## ✨ Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats-nu-neon.vercel.app/api?username=sailendrachettri&hide=contribs,prs&show_icons=true&theme=radical)
   
-## ‍💻 Projects 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=react-portfolio&show_owner=true)](https://github.com/sailendrachettri/react-portfolio)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=text-helper&show_owner=true)](https://github.com/sailendrachettri/text-helper)
-
-</div>
-
-<br><br>
-
+  
 ## 💻 Tech Stack I am comfortable with:
   
 <!--    Languages -->
@@ -46,6 +38,16 @@
 
 
 <br> <br>
+  
+  
+## ‍💻 Projects 
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=react-portfolio&show_owner=true)](https://github.com/sailendrachettri/react-portfolio)
+
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=text-helper&show_owner=true)](https://github.com/sailendrachettri/text-helper)
+
+</div>
+
+<br><br>
 
 
 ## 🏆 Achievements & Certifications

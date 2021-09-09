@@ -26,7 +26,7 @@
 
 <br><br>
 
-## 💻 Tech Stack I've used so far:
+## 💻 Tech Stack I am comfortable with:
   
 <!--    Languages -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

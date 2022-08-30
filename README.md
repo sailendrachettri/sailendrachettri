@@ -8,7 +8,7 @@
 <p>  I did my first computer course when I was in 6th standard, then after I got interested in computing and technology things. After that, I decided to take IT (Information Technology) in my school and continue studying that at my graduation. Currently, I'm in the 2nd year of my graduation. </p>
 
 ## 🔗 Reach out to me on:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailendrachettri/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailu_07/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sailendrchettri)
   
 <!-- putting everythin in center -->

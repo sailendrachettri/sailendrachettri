@@ -38,12 +38,6 @@
 
 
 <br> <br>
-  
-  
-## ‍💻 Projects 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=nbbgc-forcasting&show_owner=true)](https://github.com/sailendrachettri/nbbgc-forcasting)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=sailendrachettri&repo=facto&show_owner=true)](https://github.com/sailendrachettri/facto)
 
 </div>
 

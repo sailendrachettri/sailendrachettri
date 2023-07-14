@@ -46,8 +46,8 @@
 
 ## 🏆 Achievements & Certifications
 
-### i) MERN Stack with Blog Project
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-b11f2ede-9a15-4f0c-87d4-6a897f43723f.jpg">
+### i) Ablaze Coding Competition 2023
+  <img src="https://drive.google.com/uc?export=view&id=1dwQVJUl0pnejXfpGmG-SNp6oOBqmMw-r">
 
 <br> <br>
 

@@ -3,9 +3,9 @@
 
 ## 👨‍💻 About myself
 
-<p>I am Sailendra Chettri Tech enthusiast, comfortable with C++ and javascript, always open to learn and explore different tools and technologies. Currently, I'm Learning Data structure and algorithms (using C++) and exploring a little bit of web development.</p>
+<p>As a recent graduate in B Voc Software Development. I am excited to begin my career as a Software Developer. I have learned programming languages like JavaScript, C++, HTML & CSS, and frameworks like ReactJS, along with libraries like MaterialUI. </p> 
+<p>During my studies, I worked on various projects that helped me improve my problem-solving and teamwork skills. I am a quick learner and eager to work in a dynamic and innovative environment. </p>
 
-<p>  I did my first computer course when I was in 6th standard, then after I got interested in computing and technology things. After that, I decided to take IT (Information Technology) in my school and continue studying that at my graduation. Currently, I'm in the 3rd year of my graduation. </p>
 
 ## 🔗 Reach out to me on:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailendrachettri/)

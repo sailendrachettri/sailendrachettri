@@ -45,13 +45,17 @@
 
 
 ## 🏆 Achievements & Certifications
+### i) JavaScript Algorithms and Data Structures
+  <img src="https://drive.google.com/uc?export=view&id=1ujjGKDgf-xlVmqNE011PY4s2jdF_f8_t">
 
-### i) Ablaze Coding Competition 2023
+<br> <br>
+
+### ii) Ablaze Coding Competition 2023
   <img src="https://drive.google.com/uc?export=view&id=1dwQVJUl0pnejXfpGmG-SNp6oOBqmMw-r">
 
 <br> <br>
 
-### ii) Modern JavaScript for React JS - ES6
+### iii) Modern JavaScript for React JS - ES6
   <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-94293565-9a83-4cba-8b31-7afcf9138fd7.jpg">
 
 

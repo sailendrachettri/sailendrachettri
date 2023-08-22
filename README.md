@@ -46,7 +46,7 @@
 
 ## 🏆 Achievements & Certifications
 ### i) National Skills Qualification Framework - NSQF Level 7
-  <img src="https://drive.google.com/uc?export=view&id=19Q7y4aUidycp3_I5rpKH4fhVHIRE2qdy">
+  <img src="https://drive.google.com/uc?export=view&id=1tdEG4BSrQtkgX8waO24oYotzWuRtuDJ4">
 
 <br> <br>
 

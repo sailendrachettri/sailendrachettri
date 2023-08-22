@@ -1,7 +1,5 @@
 ## Hello World 👋 
-<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" min-width="500" min-height="320"> -->
-
-<img align="right" alt="GIF" src="giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" min-width="500" min-height="320"> 
+<img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif" min-width="500" min-height="320">
 
 
 

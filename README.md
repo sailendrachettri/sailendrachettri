@@ -8,21 +8,10 @@
 <p>As a recent graduate in B Voc Software Development. I am excited to begin my career as a Software Developer. I have learned programming languages like JavaScript, C++, HTML & CSS, and frameworks like ReactJS, along with libraries like MaterialUI. </p> 
 <p>During my studies, I worked on various projects that helped me improve my problem-solving and teamwork skills. I am a quick learner and eager to work in a dynamic and innovative environment. </p>
 
-
-## 🔗 Reach out to me on:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailendrachettri/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sailu_07)
-  
-<!-- putting everythin in center -->
+## 💻 Tech Stack:
 <div align="center">
-  
-<!-- ## ✨ Github Stats
-![Anurag's GitHub stats](https://github-readme-stats-nu-neon.vercel.app/api?username=sailendrachettri&hide=contribs,prs&show_icons=true&theme=radical) -->
-  
-  
-## 💻 Tech Stack I am comfortable with:
-  
 <!--    Languages -->
+  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,8 +26,17 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+</div>
 
-
+## 🔗 Reach out to me on:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailendrachettri/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sailendrz)
+  
+<!-- putting everythin in center -->
+<div align="center">
+  
+<!-- ## ✨ Github Stats
+![Anurag's GitHub stats](https://github-readme-stats-nu-neon.vercel.app/api?username=sailendrachettri&hide=contribs,prs&show_icons=true&theme=radical) -->
 <br> <br>
 
 </div>

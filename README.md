@@ -29,31 +29,25 @@
 </div>
 
 ## 🔗 Reach out to me on:
+<div>
+  
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailendrachettri/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sailendrz)
-  
-<!-- putting everythin in center -->
-<div align="center">
-  
-<!-- ## ✨ Github Stats
-![Anurag's GitHub stats](https://github-readme-stats-nu-neon.vercel.app/api?username=sailendrachettri&hide=contribs,prs&show_icons=true&theme=radical) -->
-<br> <br>
 
 </div>
 
-<br><br>
-
+<br>
 
 ## 🏆 Achievements & Certifications
 ### i) National Skills Qualification Framework - NSQF Level 7
   <img src="https://drive.google.com/uc?export=view&id=1tdEG4BSrQtkgX8waO24oYotzWuRtuDJ4">
 
-<br> <br>
+<br>
 
 ### ii) JavaScript Algorithms and Data Structures
   <img src="https://drive.google.com/uc?export=view&id=1ujjGKDgf-xlVmqNE011PY4s2jdF_f8_t">
 
-<br> <br>
+<br>
 
 ### iii) Ablaze Coding Competition 2023
   <img src="https://drive.google.com/uc?export=view&id=1dwQVJUl0pnejXfpGmG-SNp6oOBqmMw-r">

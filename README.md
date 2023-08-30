@@ -1,5 +1,6 @@
 ## Hello World 👋 
-<img align="right" alt="GIF" src="https://github.com/sailendrachettri/sailendrachettri/blob/main/dev.gif" min-width="500" min-height="320">
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwN21keXAydGU5OXgzNTExZXA4djR2OXh5Nm53YnByMnlqem54OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="460" height="280">
+
 
 
 
@@ -9,7 +10,7 @@
 <p>During my studies, I worked on various projects that helped me improve my problem-solving and teamwork skills. I am a quick learner and eager to work in a dynamic and innovative environment. </p>
 
 ## 💻 Tech Stack:
-<div align="center">
+<div align="">
 <!--    Languages -->
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

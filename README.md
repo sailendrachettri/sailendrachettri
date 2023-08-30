@@ -10,7 +10,7 @@
 <p>During my studies, I worked on various projects that helped me improve my problem-solving and teamwork skills. I am a quick learner and eager to work in a dynamic and innovative environment. </p>
 
 ## 💻 Tech Stack:
-<div align="">
+<div align="center">
 <!--    Languages -->
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

@@ -37,7 +37,15 @@
 
 </div>
 
-<br>
+## 🔗 Github Stats
+<div>
+  
+  [![Sailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailendra)](https://github.com/sailendra/github-readme-stats)
+  <img align="left" alt="Sailendra" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailendrachettri" />
+  
+</div>
+
+</br> </br> </br>
 
 ## 🏆 Achievements & Certifications
 ### i) National Skills Qualification Framework - NSQF Level 7
@@ -53,16 +61,6 @@
 ### iii) Ablaze Coding Competition 2023
   <img src="https://drive.google.com/uc?export=view&id=1dwQVJUl0pnejXfpGmG-SNp6oOBqmMw-r">
 
-<!--
-<br> <br>
-
-### iv) Modern JavaScript for React JS - ES6
-  <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-94293565-9a83-4cba-8b31-7afcf9138fd7.jpg">
--->
-
-
 <!-- References: -->
 <!-- Resource: https://github.com/anuraghazra/github-readme-stats  -->
 <!--   https://github.com/Ileriayo/markdown-badges#programming-languages -->
-
-<!-- <img align="left" alt="Sailendra" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailendrachettri" /> -->

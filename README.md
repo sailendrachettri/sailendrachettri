@@ -40,8 +40,8 @@
 ## 🔗 Github Stats
 <div>
   
-  [![Sailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailendra)](https://github.com/sailendra/github-readme-stats)
-  <img align="left" alt="Sailendra" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailendrachettri" />
+  [![Sailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailendrachettri&show_icons=true&theme=radical)](https://github.com/sailendrachettri/github-readme-stats)
+  <img align="left" alt="Sailendra" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailendrachettri&show_icons=true&theme=radical" />
   
 </div>
 

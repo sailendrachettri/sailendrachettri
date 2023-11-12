@@ -37,11 +37,11 @@
 
 </div>
 
-## 🔗 Github Stats
+## ✨ Github Stats
 <div>
   
-  [![Sailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailendrachettri&show_icons=true&theme=radical)](https://github.com/sailendrachettri/github-readme-stats)
-  <img align="left" alt="Sailendra" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailendrachettri&show_icons=true&theme=radical" />
+  [![Sailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailendrachettri&show_icons=true&theme=transparent)](https://github.com/sailendrachettri/github-readme-stats)
+  <img align="left" alt="Sailendra" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailendrachettri&show_icons=true&theme=transparent" />
   
 </div>
 

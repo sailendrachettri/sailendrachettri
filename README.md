@@ -39,6 +39,7 @@
 
 ## ✨ Github Stats
 <div>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sailendrachettri&theme=transparent&alt="Sailendra" /></p>
   
   [![Sailendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailendrachettri&show_icons=true&theme=transparent&&hide=contribs,prs)](https://github.com/sailendrachettri/github-readme-stats)
   <img align="left" alt="Sailendra" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailendrachettri&show_icons=true&theme=transparent&hide=python,css&langs_count=4&layout=compact" />

@@ -2,11 +2,7 @@
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlwN21keXAydGU5OXgzNTExZXA4djR2OXh5Nm53YnByMnlqem54OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="460" height="280">
 
 
-
-
-## 👨‍💻 About myself
-
-<p>I am a software developer with hands-on experience in building full-stack applications, API development, and database management. I enjoy creating solutions using technologies like React, Node.js, and PostgreSQL, ensuring smooth user experiences and functional backend systems. </p>
+<p>I am a software developer with hands-on experience in building full-stack applications, API development, and database management. I enjoy creating solutions using technologies like JavaScript, React, Node.js, and PostgreSQL etc. ensuring smooth user experiences and functional backend systems. </p>
 <p>I thrive in collaborative environments, where I can apply my problem-solving skills to deliver high-quality software. My goal is to keep learning and adapting to new challenges while contributing to impactful projects.</p> 
 
 ## 💻 Tech Stack:

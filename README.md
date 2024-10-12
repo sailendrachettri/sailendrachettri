@@ -6,8 +6,8 @@
 
 ## 👨‍💻 About myself
 
-<p>As a recent graduate in B Voc Software Development. I am excited to begin my career as a Software Developer. I have learned programming languages like JavaScript, C++, HTML & CSS, and frameworks like ReactJS, along with libraries like MaterialUI. </p> 
-<p>During my studies, I worked on various projects that helped me improve my problem-solving and teamwork skills. I am a quick learner and eager to work in a dynamic and innovative environment. </p>
+<p>I am a software developer with hands-on experience in building full-stack applications, API development, and database management. I enjoy creating solutions using technologies like React, Node.js, and PostgreSQL, ensuring smooth user experiences and functional backend systems. </p>
+<p>I thrive in collaborative environments, where I can apply my problem-solving skills to deliver high-quality software. My goal is to keep learning and adapting to new challenges while contributing to impactful projects.</p> 
 
 ## 💻 Tech Stack:
 <div align="center">
